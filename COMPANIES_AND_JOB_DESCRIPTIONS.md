@@ -1,50 +1,50 @@
 # 🏢 Campus Recruitment Company Profiles & Job Descriptions Catalog
 
-> **Overview**: Clean, structured catalog of **37 Recruiting Companies**, roles, eligibility criteria, CTC packages, application procedures, and attached documents.
+> **Overview**: Clean, structured catalog of **37 Recruiting Companies**, roles, eligibility criteria, CTC packages, application procedures, and attached documents from the `jd/` directory.
 
 ---
 
 ## 📋 Quick Navigation Table
 
-| # | Company | Role(s) | Type | Location | CTC / Compensation |
-|---|---------|---------|------|----------|-------------------|
-| 01 | [Boeing India](#01-boeing-india) | `Supplier Development & Growth Traniee,Digital...` | Apprenticeship | Bengaluru, | **₹ 938000 per Annum** |
-| 02 | [Commonwealth Bank of Australia](#02-commonwealth-bank-of-australia) | `Remote Apprenticeship` | Apprenticeship | Remote (work-from-home) | **₹ 15000 per Month** |
-| 03 | [ORACLE OFSS](#03-oracle-ofss) | `Project Intern` | Internship | Bangalore, Mumbai, Pune or Chennai | **₹ 60000 per Month** |
-| 04 | [Epicor](#04-epicor) | `Intern` | Full Time | Bangalore | **₹ 1400000 per Annum** |
-| 05 | [Zensar Technologies](#05-zensar-technologies) | `AI Engineer` | Full Time | Pune, Chennai, Hyderabad, Bangalore | **₹ 600000 - ₹ 1000000 per Annum** |
-| 06 | [Infosys](#06-infosys) | `Specialist Programmer (Trainee)/Digital Speci...` | Full Time | PAN INDIA | **₹ 625000 - ₹ 2100000 per Annum** |
-| 07 | [West Pharmaceutical Services, Inc](#07-west-pharmaceutical-services-inc) | `Graduate Trainee, R&D` | Full Time | Bangalore ( Kadubeesanahalli) | **₹ 990000 per Annum** |
-| 08 | [TE Connectivity](#08-te-connectivity) | `Electronics R&D,Sensors lab,- Mechanical R&D,...` | Full Time | Whitefield, Bangalore | **₹ 629000 - ₹ 915000 per Annum** |
-| 09 | [Celonis(Orbit India)](#09-celonis-orbit-india) | `Associate Value Engineer` | Full Time | Bangalore | **₹ 1300000 per Annum** |
-| 10 | [Kaar Technologies](#10-kaar-technologies) | `Tech Lieutenant` | Full Time | Chennai | **₹ 850000 per Annum** |
-| 11 | [GOLGIX](#11-golgix) | `ML Engineer,Full Stack Engineer` | Full Time | Bangalore | **₹ 500000 - ₹ 1000000 per Annum** |
-| 12 | [Neoveda Technologies Private Limited](#12-neoveda-technologies-private-limited) | `Graduate Software Engineer (GSE)` | Full Time | Dehradun, Uttarakhand | **₹ 500000 - ₹ 800000 per Annum** |
-| 13 | [pivotalassociates](#13-pivotalassociates) | `Business Development,Client Relationships,Tal...` | Full Time | Bangalore | **₹ 900000 - ₹ 1200000 per Annum** |
-| 14 | [London Stock Exchange Group - LSEG](#14-london-stock-exchange-group-lseg) | `Product Engineering,Service Engineering,Quant...` | Full Time | Bengaluru & Hyderabad | **₹ 1210845 per Annum** |
-| 15 | [ZeAI Soft](#15-zeai-soft) | `Artificial Intelligence, Machine Learning, Da...` | Full Time | Chennai | **₹ 500000 - ₹ 800000 per Annum** |
-| 16 | [MoveinSync](#16-moveinsync) | `Software Development Intern (Frontend)` | Full Time | Bangalore | **₹ 1000000 - ₹ 1200000 per Annum** |
-| 17 | [PeopleHum (Avniro Groups)](#17-peoplehum-avniro-groups) | `Agentic AI Java Developer, UI Developer for A...` | Full Time | Mumbai | **₹ 540000 per Annum** |
-| 18 | [Recruit CRM](#18-recruit-crm) | `Trainee Software Engineer` | Full Time | Fully Remote | **₹ 900000 per Annum** |
-| 19 | [OpenText](#19-opentext) | `Internship – AI/ML/DS Developer` | Full Time | Hyderabad or Bangalore | **₹ 1500000 per Annum** |
-| 20 | [Mu Sigma](#20-mu-sigma) | `Trainee Decision Scientist-1` | Full Time | PAN INDIA | **₹ 500000 per Annum** |
-| 21 | [Fractal ai](#21-fractal-ai) | `Data Science,Data Engineer,Data Analytics` | Full Time | Mumbai/Bengaluru/Gurgaon/Chennai/Pune/Noida | **₹ 700000 per Annum** |
-| 22 | [Stylumia](#22-stylumia) | `Machine Learning Engineer` | Full Time | Bengaluru, Karnataka (On-site) | **₹ 1000000 per Annum** |
-| 23 | [Accorian](#23-accorian) | `Penetration Testing` | Full Time | Bangalore ( Hydrid) | **₹ 900000 per Annum** |
-| 24 | [Data Grokr](#24-data-grokr) | `Software Development Intern` | Full Time | Bangalore | **₹ 600000 per Annum** |
-| 25 | [STEMx India](#25-stemx-india) | `R&D Engineer, Business Development (BDM) Intern` | Full Time | Bangalore | **₹ 400000 - ₹ 600000 per Annum** |
-| 26 | [EON EXEA](#26-eon-exea) | `Polymath Innovae Fellowship` | Full Time | Bangalore | **₹ 2100000 per Annum** |
-| 27 | [Accenture](#27-accenture) | `Associate Software Engineer,Advanced Associat...` | Full Time | Bangalore | **₹ 450000 - ₹ 650000 per Annum** |
-| 28 | [Jones Lang Lasalle (JLL)](#28-jones-lang-lasalle-jll) | `Software Engineer` | Full Time | Bangalore | **₹ 900000 per Annum** |
-| 29 | [ZF Group](#29-zf-group) | `Web Development Intern,Research Intern – LLMs...` | Full Time | Hyderabad | **₹ 900000 per Annum** |
-| 30 | [MathCo](#30-mathco) | `AI-Analyst` | Full Time | Bangalore | **₹ 600000 per Annum** |
-| 31 | [super.money (a Flipkart Company)](#31-super-money-a-flipkart-company) | `SDE` | Full Time | PAN INDIA | **₹ 1800000 per Annum** |
-| 32 | [Net Connect Global](#32-net-connect-global) | `Customer Success Executive,Growth Associate,T...` | Full Time | Bangalore | **₹ 600000 per Annum** |
-| 33 | [Aadhar Housing Finance Ltd](#33-aadhar-housing-finance-ltd) | `Data Scientist, Business Analyst & Data Engineer` | Full Time | Bangalore | **₹ 900000 per Annum** |
-| 34 | [Nutanix](#34-nutanix) | `SRE Intern` | Full Time | Bangalore/Pune | **₹ 2035000 per Annum** |
-| 35 | [Epsilon](#35-epsilon) | `Associate Software Engineer,Associate Databas...` | Full Time | Bangalore | **₹ 800000 per Annum** |
-| 36 | [Zensar Technologies](#36-zensar-technologies) | `Intern` | Full Time | Pune | **₹ 1000000 per Annum** |
-| 37 | [Hourglass Research](#37-hourglass-research) | `Patent Associates` | Full Time | Bangalore | **₹ 750000 per Annum** |
+| # | Company | Role(s) | Type | Location | CTC / Compensation | Attached Documents (in `jd/`) |
+|---|---------|---------|------|----------|--------------------|-------------------------------|
+| 01 | [Boeing India](#01-boeing-india) | `Supplier Development & Growth Traniee,Digi...` | Apprenticeship | Bengaluru, | **₹ 938000 per Annum** | 10 file(s) |
+| 02 | [Commonwealth Bank of Australia](#02-commonwealth-bank-of-australia) | `Remote Apprenticeship` | Apprenticeship | Remote (work-from-home) | **₹ 15000 per Month** | 1 file(s) |
+| 03 | [ORACLE OFSS](#03-oracle-ofss) | `Project Intern` | Internship | Bangalore, Mumbai, Pune or Chennai | **₹ 60000 per Month** | — |
+| 04 | [Epicor](#04-epicor) | `Intern` | Full Time | Bangalore | **₹ 1400000 per Annum** | — |
+| 05 | [Zensar Technologies](#05-zensar-technologies) | `AI Engineer` | Full Time | Pune, Chennai, Hyderabad, Bangalore | **₹ 600000 - ₹ 1000000 per Annum** | — |
+| 06 | [Infosys](#06-infosys) | `Specialist Programmer (Trainee)/Digital Sp...` | Full Time | PAN INDIA | **₹ 625000 - ₹ 2100000 per Annum** | 3 file(s) |
+| 07 | [West Pharmaceutical Services, Inc](#07-west-pharmaceutical-services-inc) | `Graduate Trainee, R&D` | Full Time | Bangalore ( Kadubeesanahalli) | **₹ 990000 per Annum** | 1 file(s) |
+| 08 | [TE Connectivity](#08-te-connectivity) | `Electronics R&D,Sensors lab,- Mechanical R...` | Full Time | Whitefield, Bangalore | **₹ 629000 - ₹ 915000 per Annum** | 5 file(s) |
+| 09 | [Celonis(Orbit India)](#09-celonis-orbit-india) | `Associate Value Engineer` | Full Time | Bangalore | **₹ 1300000 per Annum** | 1 file(s) |
+| 10 | [Kaar Technologies](#10-kaar-technologies) | `Tech Lieutenant` | Full Time | Chennai | **₹ 850000 per Annum** | — |
+| 11 | [GOLGIX](#11-golgix) | `ML Engineer,Full Stack Engineer` | Full Time | Bangalore | **₹ 500000 - ₹ 1000000 per Annum** | — |
+| 12 | [Neoveda Technologies Private Limited](#12-neoveda-technologies-private-limited) | `Graduate Software Engineer (GSE)` | Full Time | Dehradun, Uttarakhand | **₹ 500000 - ₹ 800000 per Annum** | 2 file(s) |
+| 13 | [pivotalassociates](#13-pivotalassociates) | `Business Development,Client Relationships,...` | Full Time | Bangalore | **₹ 900000 - ₹ 1200000 per Annum** | 5 file(s) |
+| 14 | [London Stock Exchange Group - LSEG](#14-london-stock-exchange-group-lseg) | `Product Engineering,Service Engineering,Qu...` | Full Time | Bengaluru & Hyderabad | **₹ 1210845 per Annum** | 2 file(s) |
+| 15 | [ZeAI Soft](#15-zeai-soft) | `Artificial Intelligence, Machine Learning,...` | Full Time | Chennai | **₹ 500000 - ₹ 800000 per Annum** | — |
+| 16 | [MoveinSync](#16-moveinsync) | `Software Development Intern (Frontend)` | Full Time | Bangalore | **₹ 1000000 - ₹ 1200000 per Annum** | 1 file(s) |
+| 17 | [PeopleHum (Avniro Groups)](#17-peoplehum-avniro-groups) | `Agentic AI Java Developer, UI Developer fo...` | Full Time | Mumbai | **₹ 540000 per Annum** | — |
+| 18 | [Recruit CRM](#18-recruit-crm) | `Trainee Software Engineer` | Full Time | Fully Remote | **₹ 900000 per Annum** | 1 file(s) |
+| 19 | [OpenText](#19-opentext) | `Internship – AI/ML/DS Developer` | Full Time | Hyderabad or Bangalore | **₹ 1500000 per Annum** | — |
+| 20 | [Mu Sigma](#20-mu-sigma) | `Trainee Decision Scientist-1` | Full Time | PAN INDIA | **₹ 500000 per Annum** | 1 file(s) |
+| 21 | [Fractal ai](#21-fractal-ai) | `Data Science,Data Engineer,Data Analytics` | Full Time | Mumbai/Bengaluru/Gurgaon/Chennai/Pune/Noida | **₹ 700000 per Annum** | 1 file(s) |
+| 22 | [Stylumia](#22-stylumia) | `Machine Learning Engineer` | Full Time | Bengaluru, Karnataka (On-site) | **₹ 1000000 per Annum** | 1 file(s) |
+| 23 | [Accorian](#23-accorian) | `Penetration Testing` | Full Time | Bangalore ( Hydrid) | **₹ 900000 per Annum** | 1 file(s) |
+| 24 | [Data Grokr](#24-data-grokr) | `Software Development Intern` | Full Time | Bangalore | **₹ 600000 per Annum** | 1 file(s) |
+| 25 | [STEMx India](#25-stemx-india) | `R&D Engineer, Business Development (BDM) I...` | Full Time | Bangalore | **₹ 400000 - ₹ 600000 per Annum** | 4 file(s) |
+| 26 | [EON EXEA](#26-eon-exea) | `Polymath Innovae Fellowship` | Full Time | Bangalore | **₹ 2100000 per Annum** | 2 file(s) |
+| 27 | [Accenture](#27-accenture) | `Associate Software Engineer,Advanced Assoc...` | Full Time | Bangalore | **₹ 450000 - ₹ 650000 per Annum** | 1 file(s) |
+| 28 | [Jones Lang Lasalle (JLL)](#28-jones-lang-lasalle-jll) | `Software Engineer` | Full Time | Bangalore | **₹ 900000 per Annum** | 1 file(s) |
+| 29 | [ZF Group](#29-zf-group) | `Web Development Intern,Research Intern – L...` | Full Time | Hyderabad | **₹ 900000 per Annum** | 4 file(s) |
+| 30 | [MathCo](#30-mathco) | `AI-Analyst` | Full Time | Bangalore | **₹ 600000 per Annum** | 1 file(s) |
+| 31 | [super.money (a Flipkart Company)](#31-super-money-a-flipkart-company) | `SDE` | Full Time | PAN INDIA | **₹ 1800000 per Annum** | 1 file(s) |
+| 32 | [Net Connect Global](#32-net-connect-global) | `Customer Success Executive,Growth Associat...` | Full Time | Bangalore | **₹ 600000 per Annum** | 3 file(s) |
+| 33 | [Aadhar Housing Finance Ltd](#33-aadhar-housing-finance-ltd) | `Data Scientist, Business Analyst & Data En...` | Full Time | Bangalore | **₹ 900000 per Annum** | — |
+| 34 | [Nutanix](#34-nutanix) | `SRE Intern` | Full Time | Bangalore/Pune | **₹ 2035000 per Annum** | — |
+| 35 | [Epsilon](#35-epsilon) | `Associate Software Engineer,Associate Data...` | Full Time | Bangalore | **₹ 800000 per Annum** | 2 file(s) |
+| 36 | [Zensar Technologies](#36-zensar-technologies) | `Intern` | Full Time | Pune | **₹ 1000000 per Annum** | — |
+| 37 | [Hourglass Research](#37-hourglass-research) | `Patent Associates` | Full Time | Bangalore | **₹ 750000 per Annum** | 1 file(s) |
 
 ---
 
@@ -80,19 +80,18 @@ Based on conversation CTC Offered: 9.38 LPA
 
 • Minimum 70% throughout academics( 10th,12th/Diploma and UG)
 • No history of backlogs
+### 📎 Attached Documents (Click to Open)
 
-📎 Attached Documents
-
-- 📑 `Role 4 Java Fullstack Developer.docx`
-- 📑 `Role 9 Electrical design Engineer trainee.docx`
-- 📑 `Role 3 Business Integration Trainee.docx`
-- 📑 `Role 1 Software apprentice Traniee.docx`
-- 📑 `Role 8 Supplier Development Growth Intern.docx`
-- 📑 `Role 5 Systems Engineering Traniee.docx`
-- 📑 `Role 7 Numerical Control Programming Traniee (1).docx`
-- 📑 `Apprenticeship_Comp.pdf`
-- 📑 `Role 2 Software Traniee.docx`
-- 📑 `Role 6 Digital_Engineering_Apprentice_JD (6D).docx`
+- 📘 [Role 4 Java Fullstack Developer.docx](./jd/Role%204%20Java%20Fullstack%20Developer.docx)
+- 📘 [Role 9 Electrical design Engineer trainee.docx](./jd/Role%209%20Electrical%20design%20Engineer%20trainee.docx)
+- 📘 [Role 3 Business Integration Trainee.docx](./jd/Role%203%20Business%20Integration%20Trainee.docx)
+- 📘 [Role 1 Software apprentice Traniee.docx](./jd/Role%201%20Software%20apprentice%20Traniee.docx)
+- 📘 [Role 8 Supplier Development Growth Intern.docx](./jd/Role%208%20Supplier%20Development%20Growth%20Intern.docx)
+- 📘 [Role 5 Systems Engineering Traniee.docx](./jd/Role%205%20Systems%20Engineering%20Traniee.docx)
+- 📘 [Role 7 Numerical Control Programming Traniee (1).docx](./jd/Role%207%20Numerical%20Control%20Programming%20Traniee%20%281%29.docx)
+- 📕 [Apprenticeship_Comp.pdf](./jd/Apprenticeship_Comp.pdf)
+- 📘 [Role 2 Software Traniee.docx](./jd/Role%202%20Software%20Traniee.docx)
+- 📘 [Role 6 Digital_Engineering_Apprentice_JD (6D).docx](./jd/Role%206%20Digital_Engineering_Apprentice_JD%20%286D%29.docx)
 
 ---
 
@@ -127,9 +126,9 @@ This program is designed to help students:
 • Gain practical industry experience while completing their studies
 • Apply academic knowledge in a professional environment
 • Enhance their employability and skill set
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Brochure_Apprenticeship (4).pdf`
+- 📕 [Brochure_Apprenticeship (4).pdf](./jd/Brochure_Apprenticeship%20%284%29.pdf)
 
 ---
 
@@ -390,11 +389,11 @@ Critical Guidelines:
 • Personal email addresses only; institutional domain addresses cannot be processed
 • Our system-driven protocols necessitate strict adherence to submission deadlines
 • Post-deadline modifications or additions to nomination lists cannot be accommodated
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Infosys Campus Recruitment Program_Elgibility Criteria.pdf`
-- 📑 `IMPORTANT INSTRUCTIONS FOR CANDIDATES.pdf`
-- 📑 `Infosys_Assessment_Guidelines.pdf`
+- 📕 [Infosys Campus Recruitment Program_Elgibility Criteria.pdf](./jd/Infosys%20Campus%20Recruitment%20Program_Elgibility%20Criteria.pdf)
+- 📕 [IMPORTANT INSTRUCTIONS FOR CANDIDATES.pdf](./jd/IMPORTANT%20INSTRUCTIONS%20FOR%20CANDIDATES.pdf)
+- 📕 [Infosys_Assessment_Guidelines.pdf](./jd/Infosys_Assessment_Guidelines.pdf)
 
 ---
 
@@ -480,9 +479,9 @@ All the shortlisted Trainees/Interns from the day one of joining will be covered
 
 • If the employment cessation occurs any time but before completion of 12 months then the Trainee/ Intern will have to reimburse the Company complete Pay back amount .
 • If the employment cessation occurs any time but after completion of 12 months and before completion of 18 months then the Trainee /Intern will have to reimburse the Company INR 350,000 Pay back amount .
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Graduate Trainee, Intern , R&D, Robotics & Automation .pdf`
+- 📕 [Graduate Trainee, Intern , R&D, Robotics & Automation .pdf](./jd/Graduate%20Trainee%2C%20Intern%20%2C%20R%26D%2C%20Robotics%20%26%20Automation%20.pdf)
 
 ---
 
@@ -530,13 +529,13 @@ Location: Whitefield, Bangalore
 
 Shift: General
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Intern - Digital Solution and BI.docx`
-- 📑 `Intern - Electronics_R&D.docx`
-- 📑 `Intern - Sensors Lab.docx`
-- 📑 `Intern_SW_Test_Engineer.docx`
-- 📑 `Intern_Mechanical_R&D.docx`
+- 📘 [Intern - Digital Solution and BI.docx](./jd/Intern%20-%20Digital%20Solution%20and%20BI.docx)
+- 📘 [Intern - Electronics_R&D.docx](./jd/Intern%20-%20Electronics_R%26D.docx)
+- 📘 [Intern - Sensors Lab.docx](./jd/Intern%20-%20Sensors%20Lab.docx)
+- 📘 [Intern_SW_Test_Engineer.docx](./jd/Intern_SW_Test_Engineer.docx)
+- 📘 [Intern_Mechanical_R&D.docx](./jd/Intern_Mechanical_R%26D.docx)
 
 ---
 
@@ -574,9 +573,9 @@ Artificial Intelligence & Data Science (AI & DS)
 •
 Artificial Intelligence & Machine Learning (AI & ML)
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `_Orbit Job Description (1).pdf`
+- 📕 [_Orbit Job Description (1).pdf](./jd/_Orbit%20Job%20Description%20%281%29.pdf)
 
 ---
 
@@ -751,10 +750,10 @@ The proposed timeline is as follows:
 • Paid On-the-Job Training (OJT): 3 Months at our Dehradun office
 • OJT Stipend: 15,000 per month
 • Full-Time Employment: 58 LPA, based on role alignment and performance
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Neoveda GSE Intern JD-2027.pdf`
-- 📑 `Neoveda_Campus Hiring Program_2027.pdf`
+- 📕 [Neoveda GSE Intern JD-2027.pdf](./jd/Neoveda%20GSE%20Intern%20JD-2027.pdf)
+- 📕 [Neoveda_Campus Hiring Program_2027.pdf](./jd/Neoveda_Campus%20Hiring%20Program_2027.pdf)
 
 ---
 
@@ -803,13 +802,13 @@ Role/Task Play
 
 Level 3: Offer Discussion/HR round (One to One)
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `TECH KRA.docx`
-- 📑 `BODS.docx`
-- 📑 `Recruitment KRA.pdf`
-- 📑 `KRA CUSTOMER SERVICE DIRECTOR internal (1).pdf`
-- 📑 `KRA BD internal.pdf`
+- 📘 [TECH KRA.docx](./jd/TECH%20KRA.docx)
+- 📘 [BODS.docx](./jd/BODS.docx)
+- 📕 [Recruitment KRA.pdf](./jd/Recruitment%20KRA.pdf)
+- 📕 [KRA CUSTOMER SERVICE DIRECTOR internal (1).pdf](./jd/KRA%20CUSTOMER%20SERVICE%20DIRECTOR%20internal%20%281%29.pdf)
+- 📕 [KRA BD internal.pdf](./jd/KRA%20BD%20internal.pdf)
 
 ---
 
@@ -841,10 +840,10 @@ Please find below some key details for your reference:
 • Job Locations: Bengaluru & Hyderabad
 • Application Link Live Date: 3rd August 2025
 • Tentative Joining: August 2027
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Early Careers Hiring_2027_Engineering JD.pdf`
-- 📑 `Application Hints & Tips_2027.pdf`
+- 📕 [Early Careers Hiring_2027_Engineering JD.pdf](./jd/Early%20Careers%20Hiring_2027_Engineering%20JD.pdf)
+- 📕 [Application Hints & Tips_2027.pdf](./jd/Application%20Hints%20%26%20Tips_2027.pdf)
 
 ---
 
@@ -1043,9 +1042,9 @@ Please find the Job Description (JD) attached for your reference.
 
 Note: Based on individual performance during the internship, candidates may be considered for conversion to a full-time role. The expected Full-Time (FTE) CTC upon successful conversion is in the range of 1012 LPA.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Software Development Intern (Frontend).pdf`
+- 📕 [Software Development Intern (Frontend).pdf](./jd/Software%20Development%20Intern%20%28Frontend%29.pdf)
 
 ---
 
@@ -1210,9 +1209,9 @@ Job Description: https://drive.google.com/file/d/1n8BmY0BSidExPwogTsZ-807dWaxX2e
 
 Apply Here: - https://careers.recruitcrm.io/17841115307470061803BaU?utm_source=Internal+Hiring+&utm_medium=Candidates+&utm_campaign=Hiring
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `JD - TSE - 2027.pdf`
+- 📕 [JD - TSE - 2027.pdf](./jd/JD%20-%20TSE%20-%202027.pdf)
 
 ---
 
@@ -1311,8 +1310,6 @@ Mu Sigma is the worlds largest pure-play Big Data Analytics and Decision Support
 
 We are initiating the campus 2027 hiring process, below is the registration link for the students.
 
-https://forms.office.com/r/vbsVcA5xV7
-
 Role: Trainee Decision Scientist-1
 
 Mu sigma is particularly interested in hiring candidates from the following disciplines:
@@ -1351,9 +1348,9 @@ Every joiner will be required to serve a probationary period after which sign a 
 
 If someone chooses to leave within 24 months after probation, a recovery clause of 10 Lakhs will be applicable.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `TDS_JD_2027.pdf`
+- 📕 [TDS_JD_2027.pdf](./jd/TDS_JD_2027.pdf)
 
 ---
 
@@ -1405,9 +1402,9 @@ Joining location: Mumbai/Bengaluru/Gurgaon/Chennai/Pune/Noida
 
 Joining month: July-Sept 2027
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Imagineer JD_Batch 2027 (1).pdf`
+- 📕 [Imagineer JD_Batch 2027 (1).pdf](./jd/Imagineer%20JD_Batch%202027%20%281%29.pdf)
 
 ---
 
@@ -1542,9 +1539,9 @@ Compensation and Benefits
 
 On-site work environment based in Bengaluru, Karnataka.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Stylumia_ML_Engineer_JD.docx`
+- 📘 [Stylumia_ML_Engineer_JD.docx](./jd/Stylumia_ML_Engineer_JD.docx)
 
 ---
 
@@ -1587,9 +1584,9 @@ We would appreciate your support in sharing this opportunity with your students 
 
 For more information about Accorian and our work, please visit www.accorian.com.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Campus Hiring 2027 - Penetration Testing.pdf`
+- 📕 [Campus Hiring 2027 - Penetration Testing.pdf](./jd/Campus%20Hiring%202027%20-%20Penetration%20Testing.pdf)
 
 ---
 
@@ -1731,9 +1728,9 @@ Step 3: Management interview: Based on the performance in the technical intervie
 
 will be shortlisted for management interview. The interview will focus on your
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Software Development Intern JD.. (1) (1) (1).pdf`
+- 📕 [Software Development Intern JD.. (1) (1) (1).pdf](./jd/Software%20Development%20Intern%20JD..%20%281%29%20%281%29%20%281%29.pdf)
 
 ---
 
@@ -1787,12 +1784,12 @@ Job Description
 
 Compensation Details
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `JD FOR  BDM INTERN.docx`
-- 📑 `Compensation Details (1).docx`
-- 📑 `JD FOR RD INTERN.docx`
-- 📑 `STEMx brochure - f (1)_compressed.pdf`
+- 📘 [JD FOR BDM INTERN.docx](./jd/JD%20FOR%20BDM%20INTERN.docx)
+- 📘 [Compensation Details (1).docx](./jd/Compensation%20Details%20%281%29.docx)
+- 📘 [JD FOR RD INTERN.docx](./jd/JD%20FOR%20RD%20INTERN.docx)
+- 📕 [STEMx brochure - f (1)_compressed.pdf](./jd/STEMx%20brochure%20-%20f%20%281%29_compressed.pdf)
 
 ---
 
@@ -1821,10 +1818,10 @@ Total Annual CTC of 21,00,000:
 • Annual Performance Bonus (10%): 2,10,000
 • Fixed (60% of balance): 11,34,000 (94,500/month)
 • OKR-Linked Variable (40% of balance): 7,56,000 (63,000/month)
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Polymath Innovae Fellowship Eonexea AI.pdf`
-- 📑 `Eonexea_AI_Polymath_Innovae_Hackathon_Sample_Problem_Statements_Aug_2026 (1).docx`
+- 📕 [Polymath Innovae Fellowship Eonexea AI.pdf](./jd/Polymath%20Innovae%20Fellowship%20Eonexea%20AI.pdf)
+- 📘 [Eonexea_AI_Polymath_Innovae_Hackathon_Sample_Problem_Statements_Aug_2026 (1).docx](./jd/Eonexea_AI_Polymath_Innovae_Hackathon_Sample_Problem_Statements_Aug_2026%20%281%29.docx)
 
 ---
 
@@ -1924,9 +1921,9 @@ Prohibited Items in Assessment Centre
 • Bags
 • Notebooks or loose papers
 • Extra laptops
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Accenture Important Instructions.docx`
+- 📘 [Accenture Important Instructions.docx](./jd/Accenture%20Important%20Instructions.docx)
 
 ---
 
@@ -2002,9 +1999,9 @@ Panel on campus
 
 Face to face interview will the panel. One room
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Software Engineer 1.docx`
+- 📘 [Software Engineer 1.docx](./jd/Software%20Engineer%201.docx)
 
 ---
 
@@ -2035,12 +2032,12 @@ We believe this program will provide valuable industry exposure and a potential 
 
 JD for the role attached for your reference
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Intern_Natural Language Processing (NLP).pdf`
-- 📑 `Intern - Web Development.pdf`
-- 📑 `Research Intern – LLMs_SLMs & Generative AI.pdf`
-- 📑 `Intern_LLM_Mechanical_Engineering.pdf`
+- 📕 [Intern_Natural Language Processing (NLP).pdf](./jd/Intern_Natural%20Language%20Processing%20%28NLP%29.pdf)
+- 📕 [Intern - Web Development.pdf](./jd/Intern%20-%20Web%20Development.pdf)
+- 📕 [Research Intern – LLMs_SLMs & Generative AI.pdf](./jd/Research%20Intern%20%E2%80%93%20LLMs_SLMs%20%26%20Generative%20AI.pdf)
+- 📕 [Intern_LLM_Mechanical_Engineering.pdf](./jd/Intern_LLM_Mechanical_Engineering.pdf)
 
 ---
 
@@ -2079,9 +2076,9 @@ For your reference, we have attached the job description. Please review and shar
 
 To learn more about MathCo, please visit our website.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `2027 MathCo Campus Placements – AI Analyst JD.pdf`
+- 📕 [2027 MathCo Campus Placements – AI Analyst JD.pdf](./jd/2027%20MathCo%20Campus%20Placements%20%E2%80%93%20AI%20Analyst%20JD.pdf)
 
 ---
 
@@ -2114,12 +2111,12 @@ The CTC:
 - ESOPs & Other Benefits: 44 stock units (~44 LPA at the billion-dollar valuation, based on the anticipated valuation as of last year)
 Next Steps:
 
-- Interested students are requested to fill out the form (https://42learn.com/f/supermoney) by 7 PM Thursday ( 19 August 2026)
+- Interested students are requested to fill out the form (supermoney) by 7 PM Thursday ( 19 August 2026)
 - Shortlisted candidates will be invited for assessments and interviews on Thursday (3 September)
 - Venue - to be announced.
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Campus_SDE1_super.moneyJD .pdf`
+- 📕 [Campus_SDE1_super.moneyJD .pdf](./jd/Campus_SDE1_super.moneyJD%20.pdf)
 
 ---
 
@@ -2146,11 +2143,11 @@ Growth Associate role-6 LPA (BE only)
 
 TA role is 3.5LPA (MBA only)
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Customer Success Executive.pdf`
-- 📑 `Growth Associate.pdf`
-- 📑 `TA Role JD.pdf`
+- 📕 [Customer Success Executive.pdf](./jd/Customer%20Success%20Executive.pdf)
+- 📕 [Growth Associate.pdf](./jd/Growth%20Associate.pdf)
+- 📕 [TA Role JD.pdf](./jd/TA%20Role%20JD.pdf)
 
 ---
 
@@ -2237,8 +2234,6 @@ March 6, 2026
 
 Student Enrollment
 
-Share Google Form and enrollment deadline with TPO.
-
 Share enrollment details with students and encourage registration before the deadline.
 
 Communicate the enrollment process to students and ensure timely registration.
@@ -2317,8 +2312,6 @@ Internship stippend: 30000
 
 We also request you to kindly ask the students to go through the attached Job Descriptions and submit their applications through the links provided below:
 
-Event Registration Forms
-
 (Company link)
 
 •
@@ -2331,10 +2324,10 @@ Registration Window: [20-Aug-2026] [12:00 pm IST] [21-Aug-2026] [03:30 pm IST)
 
 Very important point: its a mandatory to apply in both company link and superset.
 
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Associate Software Engineer _SaaS Ops _ JD.pdf`
-- 📑 `Associate Database Administrator_ DBA JD.pdf`
+- 📕 [Associate Software Engineer _SaaS Ops _ JD.pdf](./jd/Associate%20Software%20Engineer%20_SaaS%20Ops%20_%20JD.pdf)
+- 📕 [Associate Database Administrator_ DBA JD.pdf](./jd/Associate%20Database%20Administrator_%20DBA%20JD.pdf)
 
 ---
 
@@ -2459,9 +2452,8 @@ Eligibility & Skills
 • Strong analytical, research, and problem-solving skills.
 • Good written and verbal communication.
 • Attention to detail and willingness to learn.
-### 📎 Attached Documents
+### 📎 Attached Documents (Click to Open)
 
-- 📑 `Hourglass Research JD - Associate 08.24.pdf`
+- 📕 [Hourglass Research JD - Associate 08.24.pdf](./jd/Hourglass%20Research%20JD%20-%20Associate%2008.24.pdf)
 
 ---
-
