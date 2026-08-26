@@ -81,10 +81,7 @@ Based on conversation CTC Offered: 9.38 LPA
 • Minimum 70% throughout academics( 10th,12th/Diploma and UG)
 • No history of backlogs
 
-**Application Details**
-
-• Apply through the company link: https://forms.gle/KLxS3LzuHCSsa5oZ6
-### 📎 Attached Documents
+📎 Attached Documents
 
 - 📑 `Role 4 Java Fullstack Developer.docx`
 - 📑 `Role 9 Electrical design Engineer trainee.docx`
