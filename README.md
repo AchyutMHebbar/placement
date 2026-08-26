@@ -1,7 +1,5 @@
 # 🏢 Campus Recruitment Company Profiles & Job Descriptions Catalog
 
-> **Overview**: Clean, structured catalog of **37 Recruiting Companies**, roles, eligibility criteria, CTC packages, application procedures, and attached documents from the `jd/` directory.
-
 ---
 
 ## 📋 Quick Navigation Table
